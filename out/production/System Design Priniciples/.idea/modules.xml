@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" filepath="$PROJECT_DIR$/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPriniciple/InterfaceSegregationPriniciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPriniciple/InterfaceSegregationPriniciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleDesignPrinciple/SingleDesignPrinciple.iml" filepath="$PROJECT_DIR$/SingleDesignPrinciple/SingleDesignPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/System Design Priniciples.iml" filepath="$PROJECT_DIR$/.idea/System Design Priniciples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPriniciple/WithISP/WithISP.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPriniciple/WithISP/WithISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClosedPrinciple/WithOCP/WithOCP.iml" filepath="$PROJECT_DIR$/OpenClosedPrinciple/WithOCP/WithOCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPriniciple/WithoutISP/WithoutISP.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPriniciple/WithoutISP/WithoutISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClosedPrinciple/WithoutOCP/WithoutOCP.iml" filepath="$PROJECT_DIR$/OpenClosedPrinciple/WithoutOCP/WithoutOCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleDesignPrinciple/WithoutSRP/WithoutSRP.iml" filepath="$PROJECT_DIR$/SingleDesignPrinciple/WithoutSRP/WithoutSRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleDesignPrinciple/withSRP/withSRP.iml" filepath="$PROJECT_DIR$/SingleDesignPrinciple/withSRP/withSRP.iml" />
+    </modules>
+  </component>
+</project>
